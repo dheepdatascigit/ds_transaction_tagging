@@ -2,15 +2,15 @@
 
 The project is inpired by automatic tagging of transaction records by major banks.
 
-## <font color= blue>Project Brief </font>
+## Project Brief
 
 We will break down the project into three disctint steps
 
-1. NLP to vectorise the descriptions column of the transaction
+1. Natural Language Processing (NLP) to vectorise the descriptions column of the transaction
 2. Manual Clustering to identify the distinct categories based on the description of the each transaction
 3. Classification of transaction records based on the above found disctinc categories
 
-## <font color= blue>Project Steps</font>
+## Project Steps
 
 Following are the break down of taks for this project
 - Load data
@@ -24,7 +24,10 @@ Following are the break down of taks for this project
 - Evaluation
 - Production pipeline
 
-## <font color=blue>References</font>
+## Model building flow
+![Machine Learning Model building workflow](ML_build_pic.jpg)
+
+## References
 
 - Natural Language Processing module in General Assembly Data Science Course
 - [Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
